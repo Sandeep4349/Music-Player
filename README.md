@@ -1,1 +1,1 @@
-A Music Player 
+A Music Player With Multiple Functionalities
